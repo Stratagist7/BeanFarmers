@@ -46,4 +46,7 @@ Wolves:
   - They will go near your animals, but are afraid of you
   - They won't harm the animals, but they will get in your way
   - Chase them out to keep your farm wolf free
-	
+
+Winning:
+  - Buy and feed a sheep to win!
+
